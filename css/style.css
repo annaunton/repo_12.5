@@ -1,1 +1,35 @@
 ﻿
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+
+body {
+	background: #55ACEE;
+	color: #fff;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+h1 {
+	font-weight: 600;	
+}
+h2 {
+	font-weight: 400;
+}
+.box {
+	margin-top: 50px;
+}
+.buttons {
+	margin-top: 100px;
+}
+.trigger, .tweet {
+	display: block;
+	margin: 20px auto;
+	color: #fff;
+	background: #55ACEE;
+	border: 0.5px solid  #fff;
+	border-radius: 5px;
+	width: 300px;
+	height: 40px;
+	line-height: 40px;
+	font-weight: 400;
+	font-size: 16px;
+	text-decoration: none;
+}
